@@ -8,6 +8,7 @@ Objective: Optimize metro services using data analysis and operational strategie
 
 ### Dataset:
 Agency: Info on Delhi Metro Rail Corporation (name, URL, contact details).
+
 Calendar: Service schedules (weekdays/weekends, valid dates).
 Routes: Metro route details (names, types, descriptions).
 Shapes: Geographic paths of metro lines.
@@ -16,7 +17,7 @@ Stops: Metro stop locations (lat/long).
 Trips: Trip data linked to routes.
 
 ### Key Features
-Data-Driven Decision Making: Leveraged data insights to inform metro operational adjustments and enhancements.
+Data-Driven Decision Making: Leveraged data insights to inform metro operational adjustments and enhancements. 
 Operational Efficiency: Applied techniques to optimize scheduling, improve service reliability, and streamline metro service operations.
 Python-Based Analysis: Utilized Python for data processing, analysis, and optimization.
 
